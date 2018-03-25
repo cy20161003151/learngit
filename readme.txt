@@ -3,3 +3,4 @@ Git is free software distributed under the GPL.
 all test is not easy.
 Git has a mutable index called stage.
 Git tracks changes of files.
+stupid boss!
